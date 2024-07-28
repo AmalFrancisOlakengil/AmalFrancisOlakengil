@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @AmalFrancisOlakengil
-- 👀 I’m interested in Programming, AI and Game Development
-- 🌱 I’m currently learning SQLite3, tensorflow, react.js.
-- 💞️ I don't have any collabration ideas, since I'm a beginner.
-- 📫 You can reach me here - francisamal030@gmail.com
+# AMAL FRANCIS OLAKENGIL
+**ABOUT ME**   
 
-<!---
-AmalFrancisOlakengil/AmalFrancisOlakengil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My name is Amal Francis Olakengil. I am Pursuing B.Tech Computer science Engineering at SRM University. I am curently working on Data Science and Web Development.
+
+---
+| LANGUAGES | EXPERTISE |
+| -------- | -------- |
+| Python| numpy, pandas, scikit, tensorflow, tkinter, pygame, sqlite3, desktop app development|
+| Java | swing, sqlite, android app development|
+| C++ | desktop application development, MFCs, SDL2|  
+| Javascript | basics |
+---
+**FAMILIAR IDEs:**
+- Visual studio code
+- Visual studio
+- Android studio
+---
+**CERTIFICATIONS PURSUING:**  
+IIT MADRAS *BS IN DATA SCIENCE & APPLICATIONS*
+
+
+
+
+
+
