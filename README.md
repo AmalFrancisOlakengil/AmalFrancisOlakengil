@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [https://devfolio.co/@Amal_Francis](https://devfolio.co/@Amal_Francis)
 
-- ⚡ Thought Corner **Is an AI Model really an AI Model, until Its Deployed?**
+- ⚡ Thought Corner: **Is an AI Model really an AI Model, until Its Deployed?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
